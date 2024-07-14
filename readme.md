@@ -32,7 +32,7 @@
   <ol>
     <li>
       <a href="#overview">Overview</a>
-      <ol> The purpose of this website is to feature how to use and make a header and footer on a website
+      <ol> 
         <li>
           <a href="#key-components">Key Components</a>
         </li>
@@ -56,7 +56,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+The purpose of this website is to feature how to use and make a header and footer on a website
 
 Guiding Question:
 This project is about making different header and footer designs using HTML and CSS. The aim is to improve our 
