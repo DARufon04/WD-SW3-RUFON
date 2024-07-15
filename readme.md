@@ -7,7 +7,7 @@
   <a href="https://github.com/DARufon04/">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">SW3 Headers and footers</h3>
 </div>
 
 <br />
