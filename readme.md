@@ -8,7 +8,7 @@
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">SW3 Headers and footers</h3>
-=======
+DARufon04 WD-SW3-RUFON
   <!-- TODO: If you want to add logo or banner you can add it here -->
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
