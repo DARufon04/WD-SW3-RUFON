@@ -5,7 +5,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/DARufon04/">
-<<<<<<< HEAD
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">SW3 Headers and footers</h3>
@@ -17,19 +16,16 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
->>>>>>> c0da1699d972de219489b74babc35865d8dc1ee4
+This project aims to accomplish the requirements for SW#3 in WEB DESIGN WITH CLIENT SCRIPTING.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-<<<<<<< HEAD
 ![](https://github.com/DARufon04/WD-SW3-RUFON)
 =======
 ![](https://visit-counter.vercel.app/counter.png?page=DARufon04/WD-SW3-RUFON)
->>>>>>> c0da1699d972de219489b74babc35865d8dc1ee4
 
 ---
 
@@ -69,12 +65,12 @@
 The purpose of this website is to feature how to use and make a header and footer on a website
 
 Guiding Question:
-<<<<<<< HEAD
+
 This project focuses on creating diverse designs for headers and footers using HTML and CSS. It aims to enhance our web development skills and deepen our understanding of coding specifically related to headers and footers.
-=======
+
 This project is about making different header and footer designs using HTML and CSS. The aim is to improve our 
 web development skills and learn more about coding for headers and footers.
->>>>>>> c0da1699d972de219489b74babc35865d8dc1ee4
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -85,10 +81,6 @@ web development skills and learn more about coding for headers and footers.
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<<<<<<< HEAD
-
-=======
->>>>>>> c0da1699d972de219489b74babc35865d8dc1ee4
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -116,9 +108,9 @@ WD-ProjectName
 |     |  └─ css
 |     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
+|     |    └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  
+|     |   
 |     └─ index.html
 └─ index.html
 └─ readme.md
