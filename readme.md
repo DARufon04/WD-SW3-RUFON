@@ -68,15 +68,15 @@ Guiding Question:
 
 This project focuses on creating diverse designs for headers and footers using HTML and CSS. It aims to enhance our web development skills and deepen our understanding of coding specifically related to headers and footers.
 
-This project is about making different header and footer designs using HTML and CSS. The aim is to improve our 
-web development skills and learn more about coding for headers and footers.
-
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Transitions
+- Header Animation
+- Hover Effect
+- Footer Animation
+- Hover Effect
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -123,3 +123,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Penguin Logo | This is my logo so people that it's owned by me |[Penguin Logo](https://scontent.fmnl33-5.fna.fbcdn.net/v/t39.30808-6/401439731_1489215548596250_1195656696046473178_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kGwCdlPLCCkQ7kNvgF8y5Ub&_nc_ht=scontent.fmnl33-5.fna&oh=00_AYASs105z53EaGGzSXJdU9NZjJuzx8Sz6p6sJG6dWPj6EA&oe=669A18EB) |
+| Social Media Icons | To add Icons for editing in CSS | [icons](https://fontawesome.com/search?q=face&o=r)
